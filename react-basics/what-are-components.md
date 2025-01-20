@@ -1,3 +1,7 @@
+---
+icon: hashtag
+---
+
 # What are Components?
 
 **Components** are the building blocks of **React** applications. They are reusable pieces of code that define how a UI element (or a group of UI elements) should behave and appear. Components allow you to break down your application into smaller, manageable parts, making it easier to develop, maintain, and reuse code.

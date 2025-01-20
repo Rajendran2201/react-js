@@ -1,3 +1,7 @@
+---
+icon: plug-circle-check
+---
+
 # Props
 
 **Props** are used to pass data from parent to child components. They are read-only and cannot be modified by the child component.

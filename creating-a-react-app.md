@@ -1,3 +1,7 @@
+---
+icon: react
+---
+
 # Creating a React App
 
 #### Step 1: Download Node.js from [here](https://nodejs.org/en/download/current)

@@ -1,3 +1,7 @@
+---
+icon: waves-sine
+---
+
 # What is JSX?
 
 **JSX (JavaScript XML)** is a syntax extension for **JavaScript** that looks similar to HTML, but it has the full power of JavaScript. JSX is used with **React** to describe what the UI should look like. It allows you to write HTML-like code within your JavaScript, making it easier to create and manipulate UI components.
