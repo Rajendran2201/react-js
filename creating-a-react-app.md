@@ -31,7 +31,11 @@ npm -v # Should print "10.9.2".
 To create a react application, use the following command
 
 ```bash
-npx create-react-app app-name
+npx create-react-app app-name 
+
+(or)
+
+npx create-react-app@latest my-app
 ```
 
 ***
